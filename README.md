@@ -22,23 +22,6 @@ Disponível para projetos e colaborações.
 
 <p align="center"><b>Também estudo e utilizo</b><br>PHP · SQL · C · C++</p>
 
-## 🚀 Projetos
-
-### ✈️ AERIS
-Site conceitual de companhia aérea com narrativa visual e animações guiadas pela rolagem.
-
-`React` `TypeScript` `Vite` `GSAP`
-
-### 🔴 Pokédex
-Busca de Pokémon, filtros por tipo e cadeia de evolução com integração à PokéAPI.
-
-`HTML` `CSS` `JavaScript` `API REST`
-
-### 🟣 Portfólio
-Apresentação dos meus projetos e experiências com desenvolvimento web.
-
-`HTML` `CSS` `JavaScript`
-
 ---
 
 <div align="center">
