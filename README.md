@@ -1,29 +1,51 @@
-# Pedro Henrique
+<div align="center">
 
-### Desenvolvimento web · Sites e aplicações
+# 👋 Pedro Henrique
+### Desenvolvimento web & experiências digitais
 
-Transformo ideias em experiências web, de páginas para empresas a aplicações interativas. Sou desenvolvedor brasileiro e estou disponível para projetos e colaborações.
+**Sites para empresas · Aplicações web · Interfaces interativas**
 
-[Conheça meu portfólio](https://pedro201130.github.io/portifolio/) · [Vamos conversar](https://www.instagram.com/pedrohenriqueprates_/)
+[![Instagram](https://img.shields.io/badge/Vamos_conversar-Instagram-8957E5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohenriquedsg_/)
+
+Desenvolvedor brasileiro. Transformo ideias em experiências web.  
+Disponível para projetos e colaborações.
+
+</div>
 
 ---
 
-## Projetos em destaque
+## ⚡ Tecnologias
 
-| Projeto | O que você encontra | Tecnologias |
-| --- | --- | --- |
-| [AERIS](https://github.com/pedro201130/aeris) | Site conceitual de companhia aérea com narrativa visual e animações guiadas pela rolagem. | React, TypeScript, Vite e GSAP |
-| [Pokédex](https://github.com/pedro201130/pokedex) | Exploração de Pokémon com busca, filtros por tipo e cadeia de evolução, integrada à PokéAPI. | HTML, CSS e JavaScript |
-| [Portfólio](https://github.com/pedro201130/portifolio) | Meu espaço para apresentar projetos e desenvolvimento web. | HTML |
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,git,github&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Git e GitHub" />
+</p>
 
-## Tecnologias
+<p align="center"><b>Também estudo e utilizo</b><br>PHP · SQL · C · C++</p>
 
-**Web:** HTML · CSS · JavaScript · TypeScript · React  
-**Ferramentas:** Git · GitHub · Vite · GSAP  
-**Também estudo e utilizo:** PHP · SQL · C · C++
+## 🚀 Projetos
 
-## Vamos construir algo?
+### ✈️ AERIS
+Site conceitual de companhia aérea com narrativa visual e animações guiadas pela rolagem.
 
-Tenho interesse em criação e manutenção de sites, páginas de apresentação e aplicações web. Para conversar sobre um projeto ou colaboração, entre em contato pelo [Instagram](https://www.instagram.com/pedrohenriqueprates_/).
+`React` `TypeScript` `Vite` `GSAP`
 
-[Portfólio](https://pedro201130.github.io/portifolio/) · [Instagram](https://www.instagram.com/pedrohenriqueprates_/) · [YouTube](https://www.youtube.com/@Pedro.Henrique.Prates)
+### 🔴 Pokédex
+Busca de Pokémon, filtros por tipo e cadeia de evolução com integração à PokéAPI.
+
+`HTML` `CSS` `JavaScript` `API REST`
+
+### 🟣 Portfólio
+Apresentação dos meus projetos e experiências com desenvolvimento web.
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+<div align="center">
+
+### Tem uma ideia? Vamos construir.
+Criação e manutenção de sites, páginas de apresentação e aplicações web.
+
+[![Contato](https://img.shields.io/badge/@pedrohenriquedsg__-8957E5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohenriquedsg_/)
+
+</div>
